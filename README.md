@@ -26,7 +26,6 @@ I am a detail-oriented Data Analyst with strong skills in data cleaning, analysi
 🔹 **Python Data Cleaning Project**
 - Cleaned & visualized raw datasets using Pandas  
 
-👉 Check all projects below ⬇️
 
 ---
 
