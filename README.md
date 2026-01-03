@@ -26,14 +26,20 @@ I am a detail-oriented Data Analyst with strong skills in data cleaning, analysi
 🔹 **Python Data Cleaning Project**
 - Cleaned & visualized raw datasets using Pandas  
 
+👉 Check all projects below ⬇️
 
 ---
 
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-sadigale&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-sadigaleE&layout=compact)
+
+---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/shubham-sadigale-5067132a9
+- 💼 LinkedIn:www.linkedin.com/in/shubham-sadigale-5067132a9
 
 - 📧 Email: sadigaleshubham8@gmail.com 
 
 ⭐ If you like my work, feel free to star my repositories!
-
