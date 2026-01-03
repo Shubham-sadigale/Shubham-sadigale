@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Shubham Sadigale
 
-<!--
-**Shubham-sadigale/Shubham-sadigale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Excel | SQL | Python | Power BI  
 
-Here are some ideas to get you started:
+I am a detail-oriented Data Analyst with strong skills in data cleaning, analysis, and visualization. I enjoy turning raw data into meaningful insights that support business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- 📊 Excel (VLOOKUP, XLOOKUP, Pivot Tables, Dashboards)
+- 🗄️ SQL (MySQL, Joins, Subqueries, Window Functions)
+- 🐍 Python (Pandas, NumPy, Matplotlib)
+- 📈 Power BI (DAX, Data Modeling, Interactive Dashboards)
+- 📁 Git & GitHub
+
+---
+
+## 📌 Projects
+🔹 **Sales Analysis Dashboard**
+- Tools: Excel, Power BI  
+- Analyzed monthly sales trends and KPIs  
+
+🔹 **SQL Data Analysis Project**
+- Used complex joins & subqueries to extract insights  
+
+🔹 **Python Data Cleaning Project**
+- Cleaned & visualized raw datasets using Pandas  
+
+👉 Check all projects below ⬇️
+
+---
+
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/shubham-sadigale-5067132a9
+
+- 📧 Email: sadigaleshubham8@gmail.com 
+
+⭐ If you like my work, feel free to star my repositories!
+
