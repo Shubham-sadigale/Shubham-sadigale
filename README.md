@@ -1,45 +1,113 @@
 # Hi 👋, I'm Shubham Sadigale
 
-🎯 Aspiring Data Analyst | Excel | SQL | Python | Power BI  
+# 🚀 Aspiring Automation Test Engineer
 
-I am a detail-oriented Data Analyst with strong skills in data cleaning, analysis, and visualization. I enjoy turning raw data into meaningful insights that support business decisions.
-
----
-
-## 🔧 Skills & Tools
-- 📊 Excel (VLOOKUP, XLOOKUP, Pivot Tables, Dashboards)
-- 🗄️ SQL (MySQL, Joins, Subqueries, Window Functions)
-- 🐍 Python (Pandas, NumPy, Matplotlib)
-- 📈 Power BI (DAX, Data Modeling, Interactive Dashboards)
-- 📁 Git & GitHub
+I am a B.Sc. Computer Science graduate passionate about Software Testing and Test Automation. I enjoy building reliable automation frameworks, writing clean and maintainable test scripts, and ensuring high-quality software through UI and API testing.
 
 ---
 
-## 📌 Projects
-🔹 **Sales Analysis Dashboard**
-- Tools: Excel, Power BI  
-- Analyzed monthly sales trends and KPIs  
+## 👨‍💻 About Me
 
-🔹 **SQL Data Analysis Project**
-- Used complex joins & subqueries to extract insights  
+- 🎓 B.Sc. Computer Science Graduate (2026)
+- 💻 Aspiring Automation Test Engineer
+- 🌱 Currently learning Selenium WebDriver, TestNG, Maven, REST Assured & Jenkins
+- 🧪 Interested in UI Automation, API Testing & CI/CD
+- 🎯 Open to Automation Testing Fresher Opportunities
 
-🔹 **Python Data Cleaning Project**
-- Cleaned & visualized raw datasets using Pandas  
+---
 
-👉 Check all projects below ⬇️
+## 🛠️ Tech Stack
+
+- ☕ Java
+- 🧪 Selenium WebDriver
+- ✅ TestNG
+- 📦 Maven
+- 🗄️ SQL (MySQL)
+- 🔗 REST Assured
+- 📬 Postman
+- 🌿 Git & GitHub
+- ⚙️ Jenkins
+- 🖥️ IntelliJ IDEA
+- 💻 Eclipse
+- 📝 VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 Selenium Automation Framework
+- Java + Selenium WebDriver
+- TestNG
+- Maven
+- Page Object Model (POM)
+- Data Driven Testing
+- Extent Reports
+- Screenshot on Failure
+
+### 🔹 OrangeHRM Automation Testing
+- Login Automation
+- Add Employee
+- Search Employee
+- Delete Employee
+- Logout Automation
+
+### 🔹 SauceDemo Automation
+- Login Testing
+- Product Search
+- Add to Cart
+- Checkout Process
+- Order Confirmation
+
+### 🔹 REST API Testing
+- GET Requests
+- POST Requests
+- PUT Requests
+- DELETE Requests
+- Response Validation
+- JSON Assertions
+
+### 🔹 SQL for Testing
+- Joins
+- Subqueries
+- Window Functions
+- Database Validation
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Selenium Framework
+- Hybrid Framework
+- Jenkins CI/CD
+- Docker Basics
+- GitHub Actions
+
+---
+
+## 🎯 Career Objective
+
+Seeking an opportunity as an Automation Test Engineer where I can apply my knowledge of Java, Selenium, API Testing, SQL, and Automation Frameworks while continuously learning and contributing to high-quality software delivery.
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-sadigale&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-sadigaleE&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham-sadigale&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shubham-sadigale&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-sadigale&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn:www.linkedin.com/in/shubham-sadigale-5067132a9
 
-- 📧 Email: sadigaleshubham8@gmail.com 
+📧 Email: **sadigaleshubham8@gmail.com**
 
-⭐ If you like my work, feel free to star my repositories!
+💼 LinkedIn: **https://www.linkedin.com/in/shubham-sadigale-5067132a9**
+
+---
+
+⭐ **"Quality is never an accident; it is always the result of disciplined testing and continuous improvement."**
+
+Thanks for visiting my profile! 😊
