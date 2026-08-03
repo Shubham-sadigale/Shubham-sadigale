@@ -1,92 +1,109 @@
 # Hi 👋, I'm Shubham Sadigale
 
-# 🚀 Aspiring Automation Test Engineer
+# 🚀 Aspiring Java Developer
 
-I am a B.Sc. Computer Science graduate passionate about Software Testing and Test Automation. I enjoy building reliable automation frameworks, writing clean and maintainable test scripts, and ensuring high-quality software through UI and API testing.
+I am a B.Sc. Computer Science graduate passionate about Java Development and Software Engineering. 
+I enjoy building scalable applications, writing clean and efficient code, working with databases, 
+and developing backend solutions using Java technologies.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Sc. Computer Science Graduate (2026)
-- 💻 Aspiring Automation Test Engineer
-- 🌱 Currently learning Selenium WebDriver, TestNG, Maven, REST Assured & Jenkins
-- 🧪 Interested in UI Automation, API Testing & CI/CD
-- 🎯 Open to Automation Testing Fresher Opportunities
+- 💻 Aspiring Java Developer
+- ☕ Strong knowledge of Core Java & OOP Concepts
+- 🌱 Currently learning Advanced Java, Spring Boot & REST APIs
+- 🗄️ Interested in Backend Development and Database Applications
+- 🎯 Open to Java Developer Fresher Opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming Language
 - ☕ Java
-- 🧪 Selenium WebDriver
-- ✅ TestNG
-- 📦 Maven
-- 🗄️ SQL (MySQL)
-- 🔗 REST Assured
-- 📬 Postman
-- 🌿 Git & GitHub
-- ⚙️ Jenkins
-- 🖥️ IntelliJ IDEA
-- 💻 Eclipse
-- 📝 VS Code
+- 🐍 Basic Python
+
+### Java Technologies
+- Core Java
+- OOPs Concepts
+- Collections Framework
+- Exception Handling
+- Multithreading
+- JDBC
+
+### Backend Development
+- Spring Boot (Learning)
+- REST API
+- Hibernate (Learning)
+
+### Database
+- MySQL
+- SQL Queries
+- Database Design
+
+### Tools
+- Git & GitHub
+- Maven
+- IntelliJ IDEA
+- Eclipse
+- VS Code
+- Postman
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 Selenium Automation Framework
-- Java + Selenium WebDriver
-- TestNG
-- Maven
-- Page Object Model (POM)
-- Data Driven Testing
-- Extent Reports
-- Screenshot on Failure
+### 🔹 Employee Management System
+**Java | JDBC | MySQL**
 
-### 🔹 OrangeHRM Automation Testing
-- Login Automation
-- Add Employee
-- Search Employee
-- Delete Employee
-- Logout Automation
+- Developed a console-based employee management application
+- Implemented CRUD operations using JDBC
+- Connected Java application with MySQL database
+- Applied OOP concepts for better code structure
 
-### 🔹 SauceDemo Automation
-- Login Testing
-- Product Search
-- Add to Cart
-- Checkout Process
-- Order Confirmation
 
-### 🔹 REST API Testing
-- GET Requests
-- POST Requests
-- PUT Requests
-- DELETE Requests
-- Response Validation
-- JSON Assertions
+### 🔹 Bank Management System
+**Java | OOP | MySQL**
 
-### 🔹 SQL for Testing
-- Joins
-- Subqueries
-- Window Functions
-- Database Validation
+- Created banking operations like account creation and transactions
+- Implemented object-oriented programming concepts
+- Managed customer data using database connectivity
+
+
+### 🔹 Student Management System
+**Java | JDBC | MySQL**
+
+- Added student registration and record management features
+- Performed database operations using JDBC
+- Implemented clean and maintainable Java code
+
+
+### 🔹 REST API Application
+**Java | Spring Boot | REST API**
+
+- Developed RESTful APIs
+- Implemented CRUD operations
+- Tested APIs using Postman
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Selenium Framework
-- Hybrid Framework
-- Jenkins CI/CD
+- Spring Boot
+- Spring MVC
+- REST API Development
+- Hibernate & JPA
+- Microservices Basics
 - Docker Basics
-- GitHub Actions
+- Cloud Fundamentals
 
 ---
 
 ## 🎯 Career Objective
 
-Seeking an opportunity as an Automation Test Engineer where I can apply my knowledge of Java, Selenium, API Testing, SQL, and Automation Frameworks while continuously learning and contributing to high-quality software delivery.
+Seeking an opportunity as a Java Developer where I can utilize my knowledge of Java, OOP, JDBC, SQL, and backend development to build reliable software solutions while continuously improving my technical skills.
 
 ---
 
@@ -104,10 +121,14 @@ Seeking an opportunity as an Automation Test Engineer where I can apply my knowl
 
 📧 Email: **sadigaleshubham8@gmail.com**
 
-💼 LinkedIn: **https://www.linkedin.com/in/shubham-sadigale-5067132a9**
+💼 LinkedIn:  
+**https://www.linkedin.com/in/shubham-sadigale-5067132a9**
+
+🔗 GitHub:  
+**https://github.com/Shubham-sadigale**
 
 ---
 
-⭐ **"Quality is never an accident; it is always the result of disciplined testing and continuous improvement."**
+⭐ **"Clean code, continuous learning, and problem-solving are the foundation of great software development."**
 
 Thanks for visiting my profile! 😊
